@@ -6,9 +6,9 @@ public class Persona{
 
 	//Constructor
 
-	public Persona(String nombre, String pais, int edad){
+	public Persona(String nombre, String nacionalidad, int edad){
 		this.nombre = nombre;
-		this.pais = nacionalidad;
+		this.nacionalidad = nacionalidad;
 		this.edad = edad;
 	}
 
