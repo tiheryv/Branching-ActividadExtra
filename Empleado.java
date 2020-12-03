@@ -1,5 +1,5 @@
 public class Empleado extends Persona implements accionesPers{
-	/*clase Empleado hereda de la clase Animal e implementa la
+	/*clase Empleado hereda de la clase Persona e implementa la
 interface de accionesPers*/
 
 
