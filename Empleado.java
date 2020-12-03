@@ -70,4 +70,4 @@ interface de accionesPers*/
     private int aniosLaborando;
 
     private String puesto;
-
+}
